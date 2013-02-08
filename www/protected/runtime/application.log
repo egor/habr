@@ -1,0 +1,1212 @@
+2013/02/08 11:17:13 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:18:18 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:18:19 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:18:27 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:20:14 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:20:32 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:20:35 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:22:21 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:22:21 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:23:31 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:23:32 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:26:46 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:27:54 [error] [php] mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory (Z:\home\habr.local\www\framework\utils\CFileHelper.php:287)
+Stack trace:
+#0 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#1 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#2 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#3 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#4 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#5 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#6 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#7 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#8 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#9 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#10 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#11 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#12 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#13 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#14 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#15 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#16 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#17 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#18 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#19 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#20 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#21 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#22 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#23 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#24 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#25 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#26 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#27 Z:\home\habr.local\www\framework\utils\CFileHelper.php(63): copyDirectoryRecursive()
+#28 Z:\home\habr.local\www\framework\web\CAssetManager.php(251): copyDirectory()
+#29 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(306): CAssetManager->publish()
+#30 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(50): Bootstrap->getAssetsUrl()
+#31 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(81): Bootstrap->registerCoreCss()
+#32 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(115): Bootstrap->registerAllCss()
+#33 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(12): Bootstrap->register()
+#34 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require()
+#35 Z:\home\habr.local\www\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#36 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#37 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#38 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#39 Z:\home\habr.local\www\framework\web\CBaseController.php(206): CContentDecorator->run()
+#40 Z:\home\habr.local\www\framework\web\CBaseController.php(300): SiteController->endWidget()
+#41 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): SiteController->endContent()
+#42 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require()
+#43 Z:\home\habr.local\www\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#44 Z:\home\habr.local\www\framework\web\CController.php(784): SiteController->renderFile()
+#45 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): SiteController->render()
+#46 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#47 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#48 Z:\home\habr.local\www\framework\web\CController.php(286): SiteController->runAction()
+#49 Z:\home\habr.local\www\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#50 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): SiteController->run()
+#51 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#52 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#53 Z:\home\habr.local\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php (306)
+in Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php (50)
+in Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php (81)
+2013/02/08 11:28:34 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#8 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#13 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#14 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#15 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#16 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#17 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#19 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#21 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#22 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:28:41 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#8 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#13 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#14 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#15 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#16 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#17 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#19 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#21 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#22 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:28:55 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbCollapse" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbNavbar.php(11): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#10 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#11 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#14 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#15 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#16 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#17 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#18 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#19 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#21 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#23 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#24 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#25 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:29:39 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:29:39 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:29:40 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbHeroUnit" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\index.php(9): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', NULL, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:30:07 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbNavbar" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#8 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#13 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#14 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#15 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#16 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#17 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#19 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#21 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#22 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:30:29 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbCollapse" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbNavbar.php(11): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#10 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#11 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#14 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#15 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#16 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#17 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#18 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#19 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#21 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#23 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#24 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#25 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:31:30 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbCollapse" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbNavbar.php(11): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#10 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#11 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#14 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#15 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#16 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#17 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#18 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#19 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#21 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#23 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#24 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#25 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:32:13 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbBaseMenu" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbMenu.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbNavbar.php(155): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(173): TbNavbar->run()
+#7 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): CBaseController->widget('ext.bootstrap.w...', Array)
+#8 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#10 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#11 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#12 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#13 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#14 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#15 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#16 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#17 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#18 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#19 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#20 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#21 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#22 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#23 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#25 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#26 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#27 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:35:33 [error] [php] mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory (Z:\home\habr.local\www\framework\utils\CFileHelper.php:287)
+Stack trace:
+#0 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#1 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#2 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#3 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#4 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#5 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#6 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#7 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#8 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#9 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#10 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#11 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#12 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#13 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#14 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#15 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#16 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#17 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#18 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#19 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#20 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#21 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#22 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#23 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#24 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#25 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#26 Z:\home\habr.local\www\framework\utils\CFileHelper.php(136): copyDirectoryRecursive()
+#27 Z:\home\habr.local\www\framework\utils\CFileHelper.php(63): copyDirectoryRecursive()
+#28 Z:\home\habr.local\www\framework\web\CAssetManager.php(251): copyDirectory()
+#29 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(306): CAssetManager->publish()
+#30 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(50): Bootstrap->getAssetsUrl()
+#31 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(81): Bootstrap->registerCoreCss()
+#32 Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php(115): Bootstrap->registerAllCss()
+#33 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(12): Bootstrap->register()
+#34 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require()
+#35 Z:\home\habr.local\www\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#36 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#37 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#38 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#39 Z:\home\habr.local\www\framework\web\CBaseController.php(206): CContentDecorator->run()
+#40 Z:\home\habr.local\www\framework\web\CBaseController.php(300): SiteController->endWidget()
+#41 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): SiteController->endContent()
+#42 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require()
+#43 Z:\home\habr.local\www\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#44 Z:\home\habr.local\www\framework\web\CController.php(784): SiteController->renderFile()
+#45 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): SiteController->render()
+#46 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#47 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#48 Z:\home\habr.local\www\framework\web\CController.php(286): SiteController->runAction()
+#49 Z:\home\habr.local\www\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#50 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): SiteController->run()
+#51 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#52 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#53 Z:\home\habr.local\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+in Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php (306)
+in Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php (50)
+in Z:\home\habr.local\www\protected\extensions\bootstrap\components\Bootstrap.php (81)
+2013/02/08 11:36:39 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\login.php(25): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:38:25 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:38:45 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:38:45 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:38:47 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:38:48 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:38:51 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\YiiBase.php(196): YiiBase::import('bootstrap.compo...', true)
+#1 Z:\home\habr.local\www\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 Z:\home\habr.local\www\framework\base\CModule.php(103): CModule->getComponent('bootstrap')
+#3 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(12): CModule->__get('bootstrap')
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#8 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#13 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#14 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#15 Z:\home\habr.local\www\framework\web\actions\CViewAction.php(140): CController->render('pages/about')
+#16 Z:\home\habr.local\www\framework\web\actions\CAction.php(76): CViewAction->run()
+#17 Z:\home\habr.local\www\framework\web\CController.php(308): CAction->runWithParams(Array)
+#18 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CViewAction))
+#19 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CViewAction), Array)
+#20 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('page')
+#21 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/page')
+#22 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/index.php?r=site/page&view=about
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:38:52 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\YiiBase.php(196): YiiBase::import('bootstrap.compo...', true)
+#1 Z:\home\habr.local\www\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 Z:\home\habr.local\www\framework\base\CModule.php(103): CModule->getComponent('bootstrap')
+#3 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(12): CModule->__get('bootstrap')
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#8 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#13 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#14 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#15 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index')
+#16 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#17 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#19 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#21 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#22 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/
+---
+2013/02/08 11:44:22 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\login.php(25): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:44:31 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\login.php(25): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:44:32 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\login.php(25): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:45:06 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\login.php(25): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:45:30 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.BootInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\input\TbInputHorizontal.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(497): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(186): TbActiveForm->inputRow('text', Object(LoginForm), 'username', NULL, Array)
+#7 Z:\home\habr.local\www\themes\classic\views\site\login.php(29): TbActiveForm->textFieldRow(Object(LoginForm), 'username')
+#8 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#10 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#11 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#12 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#13 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#14 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#16 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#18 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#19 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#20 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#21 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:45:39 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.TbInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\site\login.php(25): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#10 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#11 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#12 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#14 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#16 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#17 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 11:46:03 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:46:12 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.TbInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#10 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#11 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#12 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#14 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#16 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#17 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:46:58 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.TbInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#10 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#11 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#12 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#14 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#16 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#17 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:46:59 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.TbInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(189): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\themes\classic\views\site\contact.php(35): CBaseController->beginWidget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#8 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#9 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#10 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#11 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#12 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#14 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#16 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#17 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:47:12 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.BootInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\input\TbInputHorizontal.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(497): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(186): TbActiveForm->inputRow('text', Object(ContactForm), 'name', NULL, Array)
+#7 Z:\home\habr.local\www\themes\classic\views\site\contact.php(41): TbActiveForm->textFieldRow(Object(ContactForm), 'name')
+#8 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#10 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#11 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#12 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#13 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#14 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#16 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#18 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#19 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#20 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#21 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:47:55 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.BootInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\input\TbInputHorizontal.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(497): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(186): TbActiveForm->inputRow('text', Object(ContactForm), 'name', NULL, Array)
+#7 Z:\home\habr.local\www\themes\classic\views\site\contact.php(41): TbActiveForm->textFieldRow(Object(ContactForm), 'name')
+#8 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#10 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#11 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#12 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#13 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#14 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#16 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#18 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#19 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#20 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#21 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:48:46 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.input.BootInput" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\input\TbInputHorizontal.php(10): YiiBase::import('bootstrap.widge...')
+#1 Z:\home\habr.local\www\framework\YiiBase.php(314): require('Z:\home\habr.lo...')
+#2 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#5 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(497): CBaseController->widget('ext.bootstrap.w...', Array)
+#6 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbActiveForm.php(186): TbActiveForm->inputRow('text', Object(ContactForm), 'name', NULL, Array)
+#7 Z:\home\habr.local\www\themes\classic\views\site\contact.php(41): TbActiveForm->textFieldRow(Object(ContactForm), 'name')
+#8 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#10 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#11 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('contact', Array, true)
+#12 Z:\home\habr.local\www\protected\controllers\SiteController.php(72): CController->render('contact', Array)
+#13 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionContact()
+#14 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#16 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('contact')
+#18 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/contact')
+#19 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#20 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#21 {main}
+REQUEST_URI=/index.php?r=site/contact
+HTTP_REFERER=http://habr.local/index.php?r=site/page&view=about
+---
+2013/02/08 11:51:33 [error] [php] include(Z:\home\habr.local\www\protected\extensions\ext\bootstrap\widgets\TbCollapse.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (Z:\home\habr.local\www\framework\YiiBase.php:395)
+Stack trace:
+#0 Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbNavbar.php(115): spl_autoload_call()
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(173): TbNavbar->run()
+#2 Z:\home\habr.local\www\themes\classic\views\layouts\main.php(30): SiteController->widget()
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require()
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#5 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): SiteController->renderFile()
+#6 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#7 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#8 Z:\home\habr.local\www\framework\web\CBaseController.php(206): CContentDecorator->run()
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(300): SiteController->endWidget()
+#10 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): SiteController->endContent()
+#11 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require()
+#12 Z:\home\habr.local\www\framework\web\CBaseController.php(95): SiteController->renderInternal()
+#13 Z:\home\habr.local\www\framework\web\CController.php(784): SiteController->renderFile()
+#14 Z:\home\habr.local\www\protected\controllers\SiteController.php(98): SiteController->render()
+#15 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#16 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#17 Z:\home\habr.local\www\framework\web\CController.php(286): SiteController->runAction()
+#18 Z:\home\habr.local\www\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#19 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): SiteController->run()
+#20 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#22 Z:\home\habr.local\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=site/login
+in Z:\home\habr.local\www\protected\extensions\bootstrap\widgets\TbNavbar.php (115)
+in Z:\home\habr.local\www\themes\classic\views\layouts\main.php (30)
+in Z:\home\habr.local\www\protected\views\layouts\column1.php (6)
