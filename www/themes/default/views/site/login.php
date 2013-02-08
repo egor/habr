@@ -15,7 +15,7 @@ $this->breadcrumbs=array(
 
 <div class="form">
 
-<?php $form=$this->beginWidget('bootstrap.widgets.TbActiveForm', array(
+<?php $form=$this->beginWidget('ext.bootstrap.widgets.TbActiveForm', array(
 	'id'=>'login-form',
     'type'=>'horizontal',
 	'enableClientValidation'=>true,
@@ -35,7 +35,7 @@ $this->breadcrumbs=array(
 	<?php echo $form->checkBoxRow($model,'rememberMe'); ?>
 
 	<div class="form-actions">
-		<?php $this->widget('bootstrap.widgets.TbButton', array(
+		<?php $this->widget('ext.bootstrap.widgets.TbButton', array(
             'buttonType'=>'submit',
             'type'=>'primary',
             'label'=>'Login',

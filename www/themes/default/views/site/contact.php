@@ -13,7 +13,7 @@ $this->breadcrumbs=array(
 
 <?php if(Yii::app()->user->hasFlash('contact')): ?>
 
-    <?php $this->widget('bootstrap.widgets.TbAlert', array(
+    <?php $this->widget('ext.bootstrap.widgets.TbAlert', array(
         'alerts'=>array('contact'),
     )); ?>
 
@@ -25,7 +25,7 @@ If you have business inquiries or other questions, please fill out the following
 
 <div class="form">
 
-<?php $form=$this->beginWidget('bootstrap.widgets.TbActiveForm', array(
+<?php $form=$this->beginWidget('ext.bootstrap.widgets.TbActiveForm', array(
 	'id'=>'contact-form',
     'type'=>'horizontal',
 	'enableClientValidation'=>true,
@@ -53,7 +53,7 @@ If you have business inquiries or other questions, please fill out the following
 	<?php endif; ?>
 
 	<div class="form-actions">
-		<?php $this->widget('bootstrap.widgets.TbButton',array(
+		<?php $this->widget('ext.bootstrap.widgets.TbButton',array(
             'buttonType'=>'submit',
             'type'=>'primary',
             'label'=>'Submit',
