@@ -19,10 +19,10 @@
         array(
             'class'=>'ext.bootstrap.widgets.TbMenu',
             'items'=>array(
-                array('label'=>'Home', 'url'=>array('/site/index')),
-                array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
-                array('label'=>'Contact', 'url'=>array('/site/contact')),
-                array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
+                array('label'=>'Главная', 'url'=>array('/')),
+                //array('label'=>'About', 'url'=>array('/site/page', 'view'=>'about')),
+                //array('label'=>'Contact', 'url'=>array('/site/contact')),
+                //array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
                 array('label'=>'Вход', 'url'=>array('#'), 'visible'=>Yii::app()->user->isGuest, 
                     'linkOptions'=>array(
                         'data-toggle'=>'modal',
@@ -31,6 +31,7 @@
                 ),
                 array('label'=>'Личный кабинет', 'url'=>array('/userOffice'), 'visible'=>!Yii::app()->user->isGuest),
                 array('label'=>'Добавить статью', 'url'=>array('/post/add'), 'visible'=>!Yii::app()->user->isGuest),
+                array('label'=>'Регистрация', 'url'=>array('/registration'), 'visible'=>Yii::app()->user->isGuest),
                 array('label'=>'Выход ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
             ),
         ),

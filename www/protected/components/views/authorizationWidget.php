@@ -50,21 +50,15 @@ $form = $this->beginWidget('ext.bootstrap.widgets.TbActiveForm', array(
 </div>
 
 <div class="modal-footer">
-    <?php
-    $this->widget('ext.bootstrap.widgets.TbButton', array(
-        'buttonType' => 'submit',
-        'type' => 'primary',
-        'label' => 'Войти',
-        'htmlOptions' => array('data-dismiss' => 'modal'),
-    ));
-    ?>
-
+	
+		<?php echo CHtml::submitButton('Login', array('class' => 'btn btn-normal btn-primary')); ?>
+	
 
     <?php
     $this->widget('ext.bootstrap.widgets.TbButton', array(
         'label' => 'Отмена',
         'url' => '#',
-        'htmlOptions' => array('data-dismiss' => 'modal'),
+        'htmlOptions' => array('data-dismiss' => 'modal', 'class' => 'btn btn-normal'),
     ));
     ?>
 </div> 
