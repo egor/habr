@@ -43,7 +43,7 @@ class UserIdentity extends CUserIdentity {
             // Если все действий выше успешно пройдены - значит
             // пользователь действительно существует и пароль был
             // указан верно. 
-            $this->_id = $record->id;
+            $this->_id = $record->user_id;
             // В errorCode сохраняем что ошибок нет
             $this->errorCode = self::ERROR_NONE;
         }

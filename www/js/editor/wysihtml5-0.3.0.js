@@ -6873,7 +6873,31 @@ wysihtml5.Commands = Base.extend(
     }
   };
 })(wysihtml5);
+(function(wysihtml5) {
+  var undef;
+  wysihtml5.commands.bold2 = {
+    
+    exec: function(composer, command) { 
+wysihtml5.commands.formatInline.exec(composer, command, "hr");
+      return wysihtml5.commands.formatInline.exec(composer, command, "hr");
+        //return wysihtml5.commands.formatInline.exec(composer, command, "hr");
+    },
 
+    state: function(composer, command, color) {
+      // element.ownerDocument.queryCommandState("bold") results:
+      // firefox: only <b>
+      // chrome:  <b>, <strong>, <h1>, <h2>, ...
+      // ie:      <b>, <strong>
+      // opera:   <b>, <strong>
+      return wysihtml5.commands.formatInline.state(composer, command, "hr");
+    },
+
+    value: function() {
+      return undef;
+    }
+  };
+        
+})(wysihtml5);
 (function(wysihtml5) {
   var undef,
       NODE_NAME = "A",

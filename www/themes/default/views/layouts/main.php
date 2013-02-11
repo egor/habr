@@ -29,6 +29,7 @@
                         'data-target'=>'#myModal',
                     ),
                 ),
+                array('label'=>'Личный кабинет', 'url'=>array('/userOffice'), 'visible'=>!Yii::app()->user->isGuest),
                 array('label'=>'Добавить статью', 'url'=>array('/post/add'), 'visible'=>!Yii::app()->user->isGuest),
                 array('label'=>'Выход ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
             ),
@@ -52,6 +53,7 @@
 	<?php if(isset($this->breadcrumbs)):?>
 		<?php $this->widget('ext.bootstrap.widgets.TbBreadcrumbs', array(
 			'links'=>$this->breadcrumbs,
+                        'homeLink'=>'<a href="/">Главная</a>',
 		)); ?><!-- breadcrumbs -->
 	<?php endif?>
 
@@ -70,6 +72,7 @@
       
       
           <div class="span4">
+              <?php $this->widget('UserRightMenuWidget'); ?>
               <div class="well sidebar-nav">
                   <h4>Тут будет что-то важное</h3>
                   <ul class="nav nav-list">
@@ -96,6 +99,9 @@
                       <li><a href="">Классический текст Lorem Ipsum</a></li>
                   </ul>
               </div>
+              
+              
+              
       <!--Sidebar content-->
     </div>
   </div>

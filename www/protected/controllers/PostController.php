@@ -29,6 +29,12 @@ class PostController extends Controller
             }
             $this->render('add', array('model'=>$model));
         }
+        
+        public function actionDetail($id)
+        {
+            $model = Post::model()->findByPk($id);
+            $this->render('detail', array('post'=>$model));
+        }
 	// Uncomment the following methods and override them if needed
 	/*
 	public function filters()

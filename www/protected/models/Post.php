@@ -4,7 +4,7 @@
  * This is the model class for table "post".
  *
  * The followings are the available columns in table 'post':
- * @property integer $id_post
+ * @property integer $post_id
  * @property string $header
  * @property string $text
  * @property string $tegs
@@ -49,7 +49,7 @@ class Post extends CActiveRecord
 			array('header, tegs', 'length', 'max'=>255),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id_post, header, text, tegs, date, user_id, type, plus, minus, favorites, category_id, approved, visibility', 'safe', 'on'=>'search'),
+			array('post_id, header, text, tegs, date, user_id, type, plus, minus, favorites, category_id, approved, visibility', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -70,7 +70,7 @@ class Post extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'id_post' => 'Id Post',
+			'post_id' => 'Id Post',
 			'header' => 'Заголовок',
 			'text' => 'Текст',
 			'tegs' => 'Теги',
@@ -97,7 +97,7 @@ class Post extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('id_post',$this->id_post);
+		$criteria->compare('post_id',$this->post_id);
 		$criteria->compare('header',$this->header,true);
 		$criteria->compare('text',$this->text,true);
 		$criteria->compare('tegs',$this->tegs,true);

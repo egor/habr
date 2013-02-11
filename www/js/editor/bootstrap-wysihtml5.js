@@ -1,3 +1,8 @@
+function upCut()
+{
+    //alert('1');
+    return false;
+}
 !function($, wysi) {
     "use strict";
 
@@ -58,7 +63,8 @@
                                "</div>" +
                            "</div>" +
                            "<a class='btn' data-wysihtml5-command='insertImage' title='Вставить изображение'><i class='icon-picture'></i></a>" +
-                       "</li>",
+                       "</li>" +
+                       "<li><a class='btn' data-wysihtml5-command='bold2' title=''><i class='icon-resize-horizontal'></i></a></li>",
 
         "html":
                        "<li>" +
@@ -81,6 +87,7 @@
                 "b":  {},
                 "i":  {},
                 "br": {},
+                "hr": {},
                 "ol": {},
                 "ul": {},
                 "li": {},

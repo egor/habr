@@ -3781,3 +3781,2268 @@ Stack trace:
 REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
 HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
 ---
+2013/02/08 16:42:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:44:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:45:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:50:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:51:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:53:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:53:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 16:54:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:01:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:01:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:02:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:02:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:04:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:05:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:11:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:11:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:12:12 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "getAction".' in Z:\home\habr.local\www\framework\base\CComponent.php:265
+Stack trace:
+#0 Z:\home\habr.local\www\protected\components\views\userRightMenuWidget.php(16): CComponent->__call('getAction', Array)
+#1 Z:\home\habr.local\www\protected\components\views\userRightMenuWidget.php(16): CWebApplication->getAction()
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(130): require('Z:\home\habr.lo...')
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', NULL, false)
+#4 Z:\home\habr.local\www\framework\web\widgets\CWidget.php(243): CBaseController->renderFile('Z:\home\habr.lo...', NULL, false)
+#5 Z:\home\habr.local\www\protected\components\UserRightMenuWidget.php(17): CWidget->render('userRightMenuWi...')
+#6 Z:\home\habr.local\www\framework\web\CBaseController.php(147): UserRightMenuWidget->init()
+#7 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('UserRightMenuWi...', Array)
+#8 Z:\home\habr.local\www\themes\default\views\layouts\main.php(99): CBaseController->widget('UserRightMenuWi...')
+#9 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#10 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#11 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#12 Z:\home\habr.local\www\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#13 Z:\home\habr.local\www\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#14 Z:\home\habr.local\www\framework\web\CBaseController.php(206): COutputProcessor->run()
+#15 Z:\home\habr.local\www\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#16 Z:\home\habr.local\www\protected\views\layouts\column1.php(6): CBaseController->endContent()
+#17 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#18 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#19 Z:\home\habr.local\www\framework\web\CController.php(784): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#20 Z:\home\habr.local\www\protected\controllers\PostController.php(30): CController->render('add', Array)
+#21 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): PostController->actionAdd()
+#22 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#24 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('add')
+#26 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/add')
+#27 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#28 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/post/add
+HTTP_REFERER=http://habr.local/site/index
+---
+2013/02/08 17:12:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:13:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:13:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:13:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:13:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:13:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:16:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:18:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:18:46 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbButton" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(PostController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\protected\views\post\add.php(25): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('add', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\PostController.php(30): CController->render('add', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): PostController->actionAdd()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('add')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/add')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/post/add
+HTTP_REFERER=http://habr.local/
+---
+2013/02/08 17:18:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:19:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:19:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:19:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:24:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:24:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:25:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:27:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:27:34 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbButton" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(PostController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\protected\views\post\add.php(25): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('add', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\PostController.php(30): CController->render('add', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): PostController->actionAdd()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('add')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/add')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/post/add
+HTTP_REFERER=http://habr.local/site/index
+---
+2013/02/08 17:27:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:28:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:28:47 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.widgets.TbInput" is invalid. Make sure it points to an existing PHP file and the file is readable.' in Z:\home\habr.local\www\framework\YiiBase.php:316
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(PostController), 'ext.bootstrap.w...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 Z:\home\habr.local\www\protected\views\post\add.php(22): CBaseController->widget('ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('add', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\PostController.php(30): CController->render('add', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): PostController->actionAdd()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('add')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/add')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/post/add
+HTTP_REFERER=http://habr.local/site/index
+---
+2013/02/08 17:29:50 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.widgets.TbPopover" is invalid. Make sure it points to an existing PHP file and the file is readable.' in Z:\home\habr.local\www\framework\YiiBase.php:316
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(PostController), 'ext.bootstrap.w...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 Z:\home\habr.local\www\protected\views\post\add.php(18): CBaseController->widget('ext.bootstrap.w...')
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('add', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\PostController.php(30): CController->render('add', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): PostController->actionAdd()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('add')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/add')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/post/add
+HTTP_REFERER=http://habr.local/site/index
+---
+2013/02/08 17:30:11 [error] [exception.CException] exception 'CException' with message 'Alias "ext.bootstrap.widgets.TbPopover" is invalid. Make sure it points to an existing PHP file and the file is readable.' in Z:\home\habr.local\www\framework\YiiBase.php:316
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('ext.bootstrap.w...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(PostController), 'ext.bootstrap.w...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 Z:\home\habr.local\www\protected\views\post\add.php(18): CBaseController->widget('ext.bootstrap.w...')
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('add', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\PostController.php(30): CController->render('add', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): PostController->actionAdd()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('add')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/add')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/post/add
+HTTP_REFERER=http://habr.local/site/index
+---
+2013/02/08 17:32:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:34:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:34:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/08 17:35:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 14:59:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 14:59:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:02:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/site/login
+---
+2013/02/11 15:02:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:02:49 [error] [exception.CException] exception 'CException' with message 'Property "User.id" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('id')
+#1 Z:\home\habr.local\www\protected\components\UserIdentity.php(46): CActiveRecord->__get('id')
+#2 Z:\home\habr.local\www\protected\models\LoginForm.php(54): UserIdentity->authenticate()
+#3 Z:\home\habr.local\www\framework\validators\CInlineValidator.php(42): LoginForm->authenticate('password', Array)
+#4 Z:\home\habr.local\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#5 Z:\home\habr.local\www\framework\base\CModel.php(159): CValidator->validate(Object(LoginForm), NULL)
+#6 Z:\home\habr.local\www\protected\controllers\SiteController.php(95): CModel->validate()
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://habr.local/site/login
+---
+2013/02/11 15:02:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:03:54 [error] [exception.CException] exception 'CException' with message 'Property "User.id" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('id')
+#1 Z:\home\habr.local\www\protected\components\UserIdentity.php(46): CActiveRecord->__get('id')
+#2 Z:\home\habr.local\www\protected\models\LoginForm.php(54): UserIdentity->authenticate()
+#3 Z:\home\habr.local\www\framework\validators\CInlineValidator.php(42): LoginForm->authenticate('password', Array)
+#4 Z:\home\habr.local\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#5 Z:\home\habr.local\www\framework\base\CModel.php(159): CValidator->validate(Object(LoginForm), NULL)
+#6 Z:\home\habr.local\www\protected\controllers\SiteController.php(95): CModel->validate()
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('login')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/site/login
+HTTP_REFERER=http://habr.local/site/login
+---
+2013/02/11 15:03:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 15:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:09:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 15:09:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:09:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/post/add
+---
+2013/02/11 15:09:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 15:09:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 15:09:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 16:16:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:16:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 16:16:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:16:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:17:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:17:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:20:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:20:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:22:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:22:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:23:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:25:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:27:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:27:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:27:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:27:51 [error] [exception.CException] exception 'CException' with message 'Property "Post.post_id" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('post_id')
+#1 Z:\home\habr.local\www\protected\views\userOffice\index.php(17): CActiveRecord->__get('post_id')
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#4 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#5 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 Z:\home\habr.local\www\protected\controllers\UserOfficeController.php(9): CController->render('index', Array)
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): UserOfficeController->actionIndex()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('userOffice')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/userOffice
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:28:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "view".' in Z:\home\habr.local\www\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CController.php(270): CController->missingAction('view')
+#1 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('view')
+#2 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/view')
+#3 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/post/1
+HTTP_REFERER=http://habr.local/userOffice
+---
+2013/02/11 16:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:28:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:28:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:28:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:28:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:31:45 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbButton" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(UserOfficeController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\protected\views\userOffice\index.php(19): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\UserOfficeController.php(9): CController->render('index', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): UserOfficeController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('userOffice')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/userOffice
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:31:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:33:10 [error] [exception.CException] exception 'CException' with message 'Property "TbButton.link" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:173
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(161): CComponent->__set('link', '123')
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(UserOfficeController), 'ext.bootstrap.w...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 Z:\home\habr.local\www\protected\views\userOffice\index.php(20): CBaseController->widget('ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\UserOfficeController.php(9): CController->render('index', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): UserOfficeController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('userOffice')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/userOffice
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:33:13 [error] [exception.CException] exception 'CException' with message 'Property "TbButton.links" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:173
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(161): CComponent->__set('links', '123')
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(UserOfficeController), 'ext.bootstrap.w...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('ext.bootstrap.w...', Array)
+#3 Z:\home\habr.local\www\protected\views\userOffice\index.php(20): CBaseController->widget('ext.bootstrap.w...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\UserOfficeController.php(9): CController->render('index', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): UserOfficeController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('userOffice')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/userOffice
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:33:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:33:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:33:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:34:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:38:10 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbTabs" is invalid. Make sure it points to an existing directory or file.' in Z:\home\habr.local\www\framework\YiiBase.php:341
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 Z:\home\habr.local\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(UserOfficeController), 'bootstrap.widge...', Array)
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 Z:\home\habr.local\www\protected\views\userOffice\index.php(17): CBaseController->widget('bootstrap.widge...', Array)
+#4 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#5 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#6 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#7 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#8 Z:\home\habr.local\www\protected\controllers\UserOfficeController.php(9): CController->render('index', Array)
+#9 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): UserOfficeController->actionIndex()
+#10 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('userOffice')
+#15 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/userOffice
+HTTP_REFERER=http://habr.local/userOffice
+---
+2013/02/11 16:38:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:38:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:39:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:41:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:43:54 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date DESC' at line 1. The SQL statement executed was: SELECT * FROM `post` `t` WHERE ORDER BY date DESC.
+in Z:\home\habr.local\www\protected\controllers\SiteController.php (31)
+in Z:\home\habr.local\www\index.php (13)
+2013/02/11 16:43:54 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY date DESC' at line 1. The SQL statement executed was: SELECT * FROM `post` `t` WHERE ORDER BY date DESC' in Z:\home\habr.local\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 Z:\home\habr.local\www\protected\controllers\SiteController.php(31): CActiveRecord->findAll('ORDER BY date D...')
+#4 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#5 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#7 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#9 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#10 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#11 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/
+HTTP_REFERER=http://habr.local/userOffice
+---
+2013/02/11 16:44:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:44:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:45:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:45:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:45:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:46:34 [error] [exception.CException] exception 'CException' with message 'Property "Post.h2" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('h2')
+#1 Z:\home\habr.local\www\themes\default\views\site\index.php(16): CActiveRecord->__get('h2')
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#4 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#5 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index', Array)
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:46:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:46:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:48:10 [error] [exception.CException] exception 'CException' with message 'Property "Post.id" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('id')
+#1 Z:\home\habr.local\www\themes\default\views\site\index.php(22): CActiveRecord->__get('id')
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#4 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#5 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index', Array)
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:48:19 [error] [exception.CException] exception 'CException' with message 'Property "Post.id" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('id')
+#1 Z:\home\habr.local\www\themes\default\views\site\index.php(22): CActiveRecord->__get('id')
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#4 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#5 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index', Array)
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 16:48:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:49:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:49:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:52:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:53:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:54:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:55:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:55:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:55:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 16:55:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:07:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:09:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:17:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:17:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:18:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:18:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:19:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:19:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:20:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:21:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:21:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:23:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:23:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:25:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:26:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:28:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:28:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:28:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:28:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:28:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:28:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:29:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:29:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:29:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:29:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:29:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:31:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:31:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:31:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:31:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:32:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:32:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:32:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:34:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:34:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:35:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:35:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:35:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:37:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:37:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:38:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:39:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:42:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:44:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:44:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:46:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:47:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:48:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:49:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:49:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:49:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:50:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:50:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:50:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:56:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:57:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:58:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 17:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "view".' in Z:\home\habr.local\www\framework\web\CController.php:483
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CController.php(270): CController->missingAction('view')
+#1 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('view')
+#2 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('post/view')
+#3 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/post/6
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 17:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<controller>/detail".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('<controller>/de...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/post/6
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 18:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:01:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<controller>/detail".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('<controller>/de...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/post/6
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 18:01:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:01:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<controller>/detail".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('<controller>/de...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/post/6
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 18:01:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:01:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<controller>/detail".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('<controller>/de...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/post/6
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 18:01:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:02:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:02:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:02:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:02:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:06:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 18:06:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 18:06:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:06:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/
+---
+2013/02/11 18:06:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 18:06:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/post/6
+---
+2013/02/11 18:06:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/02/11 18:10:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:10:23 [error] [exception.CException] exception 'CException' with message 'Property "Post.id_post" is not defined.' in Z:\home\habr.local\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\habr.local\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('id_post')
+#1 Z:\home\habr.local\www\themes\default\views\site\index.php(23): CActiveRecord->__get('id_post')
+#2 Z:\home\habr.local\www\framework\web\CBaseController.php(126): require('Z:\home\habr.lo...')
+#3 Z:\home\habr.local\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\habr.lo...', Array, true)
+#4 Z:\home\habr.local\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\habr.lo...', Array, true)
+#5 Z:\home\habr.local\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 Z:\home\habr.local\www\protected\controllers\SiteController.php(32): CController->render('index', Array)
+#7 Z:\home\habr.local\www\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#8 Z:\home\habr.local\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 Z:\home\habr.local\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 Z:\home\habr.local\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 Z:\home\habr.local\www\framework\web\CWebApplication.php(282): CController->run('')
+#12 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#13 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/
+HTTP_REFERER=http://habr.local/post/6
+---
+2013/02/11 18:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:21:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:21:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 18:21:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
