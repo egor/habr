@@ -6989,3 +6989,417 @@ Stack trace:
 REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
 HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
 ---
+2013/02/11 19:43:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:43:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:43:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:45:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:45:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:46:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:46:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:50:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:51:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:51:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:51:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:52:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:53:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:53:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:54:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:54:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:55:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:57:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:57:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:57:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:57:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:59:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:59:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:59:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:59:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 19:59:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:00:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:04:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:05:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:05:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:05:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:06:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:06:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:06:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:06:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---
+2013/02/11 20:06:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "assets/lib/bootstrap/less/mixins.less".' in Z:\home\habr.local\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\habr.local\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 Z:\home\habr.local\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\habr.local\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://habr.local/assets/4f8f1b79/css/yii.css
+---

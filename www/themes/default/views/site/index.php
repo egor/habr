@@ -12,15 +12,16 @@ $this->pageTitle=Yii::app()->name;
 
 <?php $this->endWidget();
 
- foreach ($lastPost as $post) {
+foreach ($lastPost as $post) {
+    $url = '/post/'.$post->post_id;
     $text = explode('<hr>', $post->text);
-    echo '<h2>'.$post->header.'</h2><span class="label">'.date('d.m.Y', $post->date).'</span>';
+    echo '<h2><a href="'.$url.'">'.$post->header.'</a></h2><span class="label">'.date('d.m.Y', $post->date).'</span>';
     echo '<div>'.$text[0].'</div>';
     $this->widget('ext.bootstrap.widgets.TbButton', array(
         'label'=>'Читать дальше',
         'type'=>'primary', // null, 'primary', 'info', 'success', 'warning', 'danger' or 'inverse'
         'size'=>'normal', // null, 'large', 'small' or 'mini'
-        'url'=>'/post/'.$post->post_id,
+        'url'=>$url.'#more',
     ));
     echo '<br clear="all" /><br clear="all" />';
 }

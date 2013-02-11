@@ -18,6 +18,7 @@ class PostController extends Controller
                 $model->type = 0;
                 $model->plus = 0;
                 $model->minus = 0;
+                $model->visits = 0;
                 $model->favorites = 0;
                 $model->category_id = 0;
                 $model->visibility = 1;
@@ -31,8 +32,10 @@ class PostController extends Controller
         }
         
         public function actionDetail($id)
-        {
+        {            
             $model = Post::model()->findByPk($id);
+            Post::model()->updateByPk($id, array('visits'=>$model->visits+1));
+            $model->visits++;
             $this->render('detail', array('post'=>$model));
         }
 	// Uncomment the following methods and override them if needed
